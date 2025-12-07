@@ -1,5 +1,4 @@
-# Simple-Ecommerce-with-Servlet-JSP-JDBC
-It's a application of Ecommerce with simple functionality. I made this application to practice Servlet and JSP.
+# Pikachu-Online-Shop-JSP-JDBC
 
 <br><h3>Login Page </h3>
 ![Login](login.jpg "LoginPage") <br><br>
